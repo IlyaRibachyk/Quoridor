@@ -1,5 +1,6 @@
 using UnityEngine;
 
+// Вихід з програми
 public class ExitGame : MonoBehaviour
 {
     public void Quit()
